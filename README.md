@@ -13,4 +13,4 @@ This repository contains a Python script for translating English text to Hinglis
    ```bash
    git clone <repository_url>
    cd <repository_directory> 
-python hinglish_translation.py
+
